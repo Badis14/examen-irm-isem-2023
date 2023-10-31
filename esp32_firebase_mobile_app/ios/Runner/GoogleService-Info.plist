@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD1JNcttE8RYISn2mcc2BKU8x-x2UBt-EE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>381319058495</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.esp32FirebaseMobileApp</string>
+	<key>PROJECT_ID</key>
+	<string>temp-783ae</string>
+	<key>STORAGE_BUCKET</key>
+	<string>temp-783ae.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:381319058495:ios:0585e1dedfb291bfef948a</string>
+	<key>DATABASE_URL</key>
+	<string>https://temp-783ae-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
